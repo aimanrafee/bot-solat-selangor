@@ -1,0 +1,5006 @@
+{
+  "negeri": "Selangor",
+  "zon": "3",
+  "daerah": "Klang, Kuala Langat",
+  "tahun": 2026,
+  "jadual": [
+    {
+      "tarikh": "2026-01-01",
+      "hari": "KHAMIS",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:56",
+        "subuh": "6:06",
+        "syuruq": "7:17",
+        "zohor": "1:20",
+        "asar": "4:43",
+        "maghrib": "7:17",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-01-02",
+      "hari": "JUMAAT",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:57",
+        "subuh": "6:07",
+        "syuruq": "7:18",
+        "zohor": "1:20",
+        "asar": "4:43",
+        "maghrib": "7:18",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-01-03",
+      "hari": "SABTU",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:57",
+        "subuh": "6:07",
+        "syuruq": "7:18",
+        "zohor": "1:21",
+        "asar": "4:44",
+        "maghrib": "7:18",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-01-04",
+      "hari": "AHAD",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:58",
+        "subuh": "6:08",
+        "syuruq": "7:19",
+        "zohor": "1:21",
+        "asar": "4:44",
+        "maghrib": "7:19",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-01-05",
+      "hari": "ISNIN",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:58",
+        "subuh": "6:08",
+        "syuruq": "7:19",
+        "zohor": "1:22",
+        "asar": "4:45",
+        "maghrib": "7:19",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-01-06",
+      "hari": "SELASA",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:59",
+        "subuh": "6:09",
+        "syuruq": "7:20",
+        "zohor": "1:22",
+        "asar": "4:45",
+        "maghrib": "7:20",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-01-07",
+      "hari": "RABU",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:59",
+        "subuh": "6:09",
+        "syuruq": "7:20",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:20",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-01-08",
+      "hari": "KHAMIS",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "6:00",
+        "subuh": "6:10",
+        "syuruq": "7:20",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-01-09",
+      "hari": "JUMAAT",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "6:00",
+        "subuh": "6:10",
+        "syuruq": "7:21",
+        "zohor": "1:24",
+        "asar": "4:46",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-01-10",
+      "hari": "SABTU",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "6:01",
+        "subuh": "6:11",
+        "syuruq": "7:21",
+        "zohor": "1:24",
+        "asar": "4:47",
+        "maghrib": "7:22",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-01-11",
+      "hari": "AHAD",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "6:01",
+        "subuh": "6:11",
+        "syuruq": "7:22",
+        "zohor": "1:24",
+        "asar": "4:47",
+        "maghrib": "7:22",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-01-12",
+      "hari": "ISNIN",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:22",
+        "zohor": "1:25",
+        "asar": "4:47",
+        "maghrib": "7:22",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-01-13",
+      "hari": "SELASA",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:22",
+        "zohor": "1:25",
+        "asar": "4:48",
+        "maghrib": "7:23",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-01-14",
+      "hari": "RABU",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:23",
+        "zohor": "1:26",
+        "asar": "4:48",
+        "maghrib": "7:23",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-01-15",
+      "hari": "KHAMIS",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "6:03",
+        "subuh": "6:13",
+        "syuruq": "7:23",
+        "zohor": "1:26",
+        "asar": "4:48",
+        "maghrib": "7:24",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-01-16",
+      "hari": "JUMAAT",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "6:03",
+        "subuh": "6:13",
+        "syuruq": "7:23",
+        "zohor": "1:26",
+        "asar": "4:49",
+        "maghrib": "7:24",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-01-17",
+      "hari": "SABTU",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:24",
+        "zohor": "1:27",
+        "asar": "4:49",
+        "maghrib": "7:24",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-01-18",
+      "hari": "AHAD",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:24",
+        "zohor": "1:27",
+        "asar": "4:49",
+        "maghrib": "7:25",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-01-19",
+      "hari": "ISNIN",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:24",
+        "zohor": "1:27",
+        "asar": "4:50",
+        "maghrib": "7:25",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-01-21",
+      "hari": "RABU",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "6:05",
+        "subuh": "6:15",
+        "syuruq": "7:25",
+        "zohor": "1:28",
+        "asar": "4:50",
+        "maghrib": "7:26",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-01-22",
+      "hari": "KHAMIS",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "6:05",
+        "subuh": "6:15",
+        "syuruq": "7:25",
+        "zohor": "1:28",
+        "asar": "4:50",
+        "maghrib": "7:26",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-01-23",
+      "hari": "JUMAAT",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:25",
+        "zohor": "1:28",
+        "asar": "4:50",
+        "maghrib": "7:27",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-01-24",
+      "hari": "SABTU",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:25",
+        "zohor": "1:29",
+        "asar": "4:51",
+        "maghrib": "7:27",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-25",
+      "hari": "AHAD",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:25",
+        "zohor": "1:29",
+        "asar": "4:51",
+        "maghrib": "7:27",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-26",
+      "hari": "ISNIN",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:26",
+        "zohor": "1:29",
+        "asar": "4:51",
+        "maghrib": "7:27",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-27",
+      "hari": "SELASA",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:26",
+        "zohor": "1:29",
+        "asar": "4:51",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-28",
+      "hari": "RABU",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:26",
+        "zohor": "1:29",
+        "asar": "4:51",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-29",
+      "hari": "KHAMIS",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-30",
+      "hari": "JUMAAT",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-01-31",
+      "hari": "SABTU",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-01",
+      "hari": "AHAD",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-02",
+      "hari": "ISNIN",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-03",
+      "hari": "SELASA",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-04",
+      "hari": "RABU",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:30",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-05",
+      "hari": "KHAMIS",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-06",
+      "hari": "JUMAAT",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-07",
+      "hari": "SABTU",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-08",
+      "hari": "AHAD",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-09",
+      "hari": "ISNIN",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-10",
+      "hari": "SELASA",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:27",
+        "zohor": "1:31",
+        "asar": "4:51",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-11",
+      "hari": "RABU",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:50",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-12",
+      "hari": "KHAMIS",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:50",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-13",
+      "hari": "JUMAAT",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:50",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-14",
+      "hari": "SABTU",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:50",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-15",
+      "hari": "AHAD",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:49",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-16",
+      "hari": "ISNIN",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "6:09",
+        "subuh": "6:19",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:49",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-17",
+      "hari": "SELASA",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:26",
+        "zohor": "1:31",
+        "asar": "4:49",
+        "maghrib": "7:30",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-02-18",
+      "hari": "RABU",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:26",
+        "zohor": "1:30",
+        "asar": "4:48",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-20",
+      "hari": "JUMAAT",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:25",
+        "zohor": "1:30",
+        "asar": "4:48",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-21",
+      "hari": "SABTU",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:25",
+        "zohor": "1:30",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-22",
+      "hari": "AHAD",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:25",
+        "zohor": "1:30",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-23",
+      "hari": "ISNIN",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:25",
+        "zohor": "1:30",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-24",
+      "hari": "SELASA",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:25",
+        "zohor": "1:30",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-25",
+      "hari": "RABU",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "6:08",
+        "subuh": "6:18",
+        "syuruq": "7:24",
+        "zohor": "1:30",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-02-26",
+      "hari": "KHAMIS",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:24",
+        "zohor": "1:29",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-02-27",
+      "hari": "JUMAAT",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:24",
+        "zohor": "1:29",
+        "asar": "4:44",
+        "maghrib": "7:30",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-02-28",
+      "hari": "SABTU",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:24",
+        "zohor": "1:29",
+        "asar": "4:44",
+        "maghrib": "7:30",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-03-01",
+      "hari": "AHAD",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:23",
+        "zohor": "1:29",
+        "asar": "4:43",
+        "maghrib": "7:30",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-03-02",
+      "hari": "ISNIN",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "6:07",
+        "subuh": "6:17",
+        "syuruq": "7:23",
+        "zohor": "1:29",
+        "asar": "4:43",
+        "maghrib": "7:30",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-03-03",
+      "hari": "SELASA",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:23",
+        "zohor": "1:29",
+        "asar": "4:42",
+        "maghrib": "7:29",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-03-04",
+      "hari": "RABU",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:23",
+        "zohor": "1:28",
+        "asar": "4:42",
+        "maghrib": "7:29",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-03-05",
+      "hari": "KHAMIS",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:22",
+        "zohor": "1:28",
+        "asar": "4:41",
+        "maghrib": "7:29",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-03-06",
+      "hari": "JUMAAT",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "6:06",
+        "subuh": "6:16",
+        "syuruq": "7:22",
+        "zohor": "1:28",
+        "asar": "4:40",
+        "maghrib": "7:29",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-03-07",
+      "hari": "SABTU",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "6:05",
+        "subuh": "6:15",
+        "syuruq": "7:22",
+        "zohor": "1:28",
+        "asar": "4:40",
+        "maghrib": "7:29",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-03-08",
+      "hari": "AHAD",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "6:05",
+        "subuh": "6:15",
+        "syuruq": "7:21",
+        "zohor": "1:27",
+        "asar": "4:39",
+        "maghrib": "7:29",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-03-09",
+      "hari": "ISNIN",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "6:05",
+        "subuh": "6:15",
+        "syuruq": "7:21",
+        "zohor": "1:27",
+        "asar": "4:38",
+        "maghrib": "7:28",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-03-10",
+      "hari": "SELASA",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:21",
+        "zohor": "1:27",
+        "asar": "4:38",
+        "maghrib": "7:28",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-03-11",
+      "hari": "RABU",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:20",
+        "zohor": "1:27",
+        "asar": "4:37",
+        "maghrib": "7:28",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-03-12",
+      "hari": "KHAMIS",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "6:04",
+        "subuh": "6:14",
+        "syuruq": "7:20",
+        "zohor": "1:26",
+        "asar": "4:36",
+        "maghrib": "7:28",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-03-13",
+      "hari": "JUMAAT",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "6:03",
+        "subuh": "6:13",
+        "syuruq": "7:20",
+        "zohor": "1:26",
+        "asar": "4:35",
+        "maghrib": "7:28",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-03-14",
+      "hari": "SABTU",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "6:03",
+        "subuh": "6:13",
+        "syuruq": "7:19",
+        "zohor": "1:26",
+        "asar": "4:35",
+        "maghrib": "7:28",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-03-15",
+      "hari": "AHAD",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "6:03",
+        "subuh": "6:13",
+        "syuruq": "7:19",
+        "zohor": "1:26",
+        "asar": "4:34",
+        "maghrib": "7:27",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-03-16",
+      "hari": "ISNIN",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:19",
+        "zohor": "1:25",
+        "asar": "4:33",
+        "maghrib": "7:27",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-03-17",
+      "hari": "SELASA",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:18",
+        "zohor": "1:25",
+        "asar": "4:32",
+        "maghrib": "7:27",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-03-18",
+      "hari": "RABU",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "6:02",
+        "subuh": "6:12",
+        "syuruq": "7:18",
+        "zohor": "1:25",
+        "asar": "4:31",
+        "maghrib": "7:27",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-03-19",
+      "hari": "KHAMIS",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "6:01",
+        "subuh": "6:11",
+        "syuruq": "7:18",
+        "zohor": "1:24",
+        "asar": "4:30",
+        "maghrib": "7:27",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-03-20",
+      "hari": "JUMAAT",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "6:01",
+        "subuh": "6:11",
+        "syuruq": "7:17",
+        "zohor": "1:24",
+        "asar": "4:29",
+        "maghrib": "7:26",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-03-22",
+      "hari": "AHAD",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "6:00",
+        "subuh": "6:10",
+        "syuruq": "7:16",
+        "zohor": "1:23",
+        "asar": "4:28",
+        "maghrib": "7:26",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-03-23",
+      "hari": "ISNIN",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "6:00",
+        "subuh": "6:10",
+        "syuruq": "7:16",
+        "zohor": "1:23",
+        "asar": "4:27",
+        "maghrib": "7:26",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-03-24",
+      "hari": "SELASA",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:59",
+        "subuh": "6:09",
+        "syuruq": "7:16",
+        "zohor": "1:23",
+        "asar": "4:26",
+        "maghrib": "7:25",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-03-25",
+      "hari": "RABU",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:59",
+        "subuh": "6:09",
+        "syuruq": "7:15",
+        "zohor": "1:23",
+        "asar": "4:25",
+        "maghrib": "7:25",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-03-26",
+      "hari": "KHAMIS",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:59",
+        "subuh": "6:09",
+        "syuruq": "7:15",
+        "zohor": "1:22",
+        "asar": "4:24",
+        "maghrib": "7:25",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-03-27",
+      "hari": "JUMAAT",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:58",
+        "subuh": "6:08",
+        "syuruq": "7:14",
+        "zohor": "1:22",
+        "asar": "4:23",
+        "maghrib": "7:25",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-03-28",
+      "hari": "SABTU",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:58",
+        "subuh": "6:08",
+        "syuruq": "7:14",
+        "zohor": "1:22",
+        "asar": "4:22",
+        "maghrib": "7:25",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-03-29",
+      "hari": "AHAD",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:57",
+        "subuh": "6:07",
+        "syuruq": "7:14",
+        "zohor": "1:21",
+        "asar": "4:21",
+        "maghrib": "7:24",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-03-30",
+      "hari": "ISNIN",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:57",
+        "subuh": "6:07",
+        "syuruq": "7:13",
+        "zohor": "1:21",
+        "asar": "4:22",
+        "maghrib": "7:24",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-03-31",
+      "hari": "SELASA",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:57",
+        "subuh": "6:07",
+        "syuruq": "7:13",
+        "zohor": "1:21",
+        "asar": "4:22",
+        "maghrib": "7:24",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-04-01",
+      "hari": "RABU",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:56",
+        "subuh": "6:06",
+        "syuruq": "7:13",
+        "zohor": "1:20",
+        "asar": "4:23",
+        "maghrib": "7:24",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-04-02",
+      "hari": "KHAMIS",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:56",
+        "subuh": "6:06",
+        "syuruq": "7:12",
+        "zohor": "1:20",
+        "asar": "4:23",
+        "maghrib": "7:24",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-04-03",
+      "hari": "JUMAAT",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:55",
+        "subuh": "6:05",
+        "syuruq": "7:12",
+        "zohor": "1:20",
+        "asar": "4:24",
+        "maghrib": "7:23",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-04",
+      "hari": "SABTU",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:55",
+        "subuh": "6:05",
+        "syuruq": "7:11",
+        "zohor": "1:20",
+        "asar": "4:24",
+        "maghrib": "7:23",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-05",
+      "hari": "AHAD",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:54",
+        "subuh": "6:04",
+        "syuruq": "7:11",
+        "zohor": "1:19",
+        "asar": "4:25",
+        "maghrib": "7:23",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-06",
+      "hari": "ISNIN",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:54",
+        "subuh": "6:04",
+        "syuruq": "7:11",
+        "zohor": "1:19",
+        "asar": "4:25",
+        "maghrib": "7:23",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-07",
+      "hari": "SELASA",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:54",
+        "subuh": "6:04",
+        "syuruq": "7:10",
+        "zohor": "1:19",
+        "asar": "4:25",
+        "maghrib": "7:23",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-08",
+      "hari": "RABU",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:53",
+        "subuh": "6:03",
+        "syuruq": "7:10",
+        "zohor": "1:18",
+        "asar": "4:26",
+        "maghrib": "7:22",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-09",
+      "hari": "KHAMIS",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:53",
+        "subuh": "6:03",
+        "syuruq": "7:10",
+        "zohor": "1:18",
+        "asar": "4:26",
+        "maghrib": "7:22",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-10",
+      "hari": "JUMAAT",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:26",
+        "maghrib": "7:22",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-04-11",
+      "hari": "SABTU",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:27",
+        "maghrib": "7:22",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-12",
+      "hari": "AHAD",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:09",
+        "zohor": "1:17",
+        "asar": "4:27",
+        "maghrib": "7:22",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-13",
+      "hari": "ISNIN",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:27",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-14",
+      "hari": "SELASA",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:28",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-15",
+      "hari": "RABU",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:28",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-16",
+      "hari": "KHAMIS",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:07",
+        "zohor": "1:16",
+        "asar": "4:28",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-17",
+      "hari": "JUMAAT",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:07",
+        "zohor": "1:16",
+        "asar": "4:28",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-18",
+      "hari": "SABTU",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:07",
+        "zohor": "1:16",
+        "asar": "4:29",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-20",
+      "hari": "ISNIN",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:06",
+        "zohor": "1:16",
+        "asar": "4:29",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-21",
+      "hari": "SELASA",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:06",
+        "zohor": "1:15",
+        "asar": "4:30",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-22",
+      "hari": "RABU",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:06",
+        "zohor": "1:15",
+        "asar": "4:30",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-23",
+      "hari": "KHAMIS",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:05",
+        "zohor": "1:15",
+        "asar": "4:30",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-24",
+      "hari": "JUMAAT",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:05",
+        "zohor": "1:15",
+        "asar": "4:30",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-25",
+      "hari": "SABTU",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:05",
+        "zohor": "1:15",
+        "asar": "4:31",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-26",
+      "hari": "AHAD",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:05",
+        "zohor": "1:14",
+        "asar": "4:31",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-27",
+      "hari": "ISNIN",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:04",
+        "zohor": "1:14",
+        "asar": "4:31",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-28",
+      "hari": "SELASA",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:04",
+        "zohor": "1:14",
+        "asar": "4:31",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-29",
+      "hari": "RABU",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:04",
+        "zohor": "1:14",
+        "asar": "4:31",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-04-30",
+      "hari": "KHAMIS",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:04",
+        "zohor": "1:14",
+        "asar": "4:32",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-05-01",
+      "hari": "JUMAAT",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:04",
+        "zohor": "1:14",
+        "asar": "4:32",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-05-02",
+      "hari": "SABTU",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:03",
+        "zohor": "1:14",
+        "asar": "4:32",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-05-03",
+      "hari": "AHAD",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:03",
+        "zohor": "1:13",
+        "asar": "4:32",
+        "maghrib": "7:20",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-05-04",
+      "hari": "ISNIN",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:03",
+        "zohor": "1:13",
+        "asar": "4:33",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-05",
+      "hari": "SELASA",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:03",
+        "zohor": "1:13",
+        "asar": "4:33",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-06",
+      "hari": "RABU",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:03",
+        "zohor": "1:13",
+        "asar": "4:33",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-07",
+      "hari": "KHAMIS",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:03",
+        "zohor": "1:13",
+        "asar": "4:33",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-08",
+      "hari": "JUMAAT",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:33",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-09",
+      "hari": "SABTU",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:34",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-10",
+      "hari": "AHAD",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:34",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-11",
+      "hari": "ISNIN",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:34",
+        "maghrib": "7:20",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-05-12",
+      "hari": "SELASA",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:34",
+        "maghrib": "7:20",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-05-13",
+      "hari": "RABU",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:35",
+        "maghrib": "7:20",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-05-14",
+      "hari": "KHAMIS",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:35",
+        "maghrib": "7:20",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-05-15",
+      "hari": "JUMAAT",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:35",
+        "maghrib": "7:20",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-05-16",
+      "hari": "SABTU",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:35",
+        "maghrib": "7:20",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-05-17",
+      "hari": "AHAD",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:35",
+        "maghrib": "7:20",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-05-18",
+      "hari": "ISNIN",
+      "hijri": "ZULHIJJAH",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:20",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-05-19",
+      "hari": "SELASA",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:20",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-05-20",
+      "hari": "RABU",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:20",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-05-21",
+      "hari": "KHAMIS",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-05-22",
+      "hari": "JUMAAT",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:37",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-05-23",
+      "hari": "SABTU",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:37",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-05-24",
+      "hari": "AHAD",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:37",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-05-25",
+      "hari": "ISNIN",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:13",
+        "asar": "4:37",
+        "maghrib": "7:21",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-05-26",
+      "hari": "SELASA",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:38",
+        "maghrib": "7:21",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-05-27",
+      "hari": "RABU",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:38",
+        "maghrib": "7:22",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-05-28",
+      "hari": "KHAMIS",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:38",
+        "maghrib": "7:22",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-05-29",
+      "hari": "JUMAAT",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:38",
+        "maghrib": "7:22",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-05-30",
+      "hari": "SABTU",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:39",
+        "maghrib": "7:22",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-05-31",
+      "hari": "AHAD",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:02",
+        "zohor": "1:14",
+        "asar": "4:39",
+        "maghrib": "7:22",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-06-01",
+      "hari": "ISNIN",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:14",
+        "asar": "4:39",
+        "maghrib": "7:22",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-06-02",
+      "hari": "SELASA",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:39",
+        "maghrib": "7:23",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-06-03",
+      "hari": "RABU",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:40",
+        "maghrib": "7:23",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-06-04",
+      "hari": "KHAMIS",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:40",
+        "maghrib": "7:23",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-06-05",
+      "hari": "JUMAAT",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:40",
+        "maghrib": "7:23",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-06-06",
+      "hari": "SABTU",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:40",
+        "maghrib": "7:23",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-06-07",
+      "hari": "AHAD",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:03",
+        "zohor": "1:15",
+        "asar": "4:41",
+        "maghrib": "7:24",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-06-08",
+      "hari": "ISNIN",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:16",
+        "asar": "4:41",
+        "maghrib": "7:24",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-06-09",
+      "hari": "SELASA",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:16",
+        "asar": "4:41",
+        "maghrib": "7:24",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-06-10",
+      "hari": "RABU",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:16",
+        "asar": "4:41",
+        "maghrib": "7:24",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-06-11",
+      "hari": "KHAMIS",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:16",
+        "asar": "4:42",
+        "maghrib": "7:25",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-06-12",
+      "hari": "JUMAAT",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:16",
+        "asar": "4:42",
+        "maghrib": "7:25",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-06-13",
+      "hari": "SABTU",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:04",
+        "zohor": "1:17",
+        "asar": "4:42",
+        "maghrib": "7:25",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-06-14",
+      "hari": "AHAD",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:05",
+        "zohor": "1:17",
+        "asar": "4:42",
+        "maghrib": "7:25",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-06-15",
+      "hari": "ISNIN",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:05",
+        "zohor": "1:17",
+        "asar": "4:43",
+        "maghrib": "7:26",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-06-16",
+      "hari": "SELASA",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:05",
+        "zohor": "1:17",
+        "asar": "4:43",
+        "maghrib": "7:26",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-06-17",
+      "hari": "RABU",
+      "hijri": "MUHARRAM",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:05",
+        "zohor": "1:17",
+        "asar": "4:43",
+        "maghrib": "7:26",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-06-18",
+      "hari": "KHAMIS",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:06",
+        "zohor": "1:18",
+        "asar": "4:43",
+        "maghrib": "7:26",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-06-19",
+      "hari": "JUMAAT",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:06",
+        "zohor": "1:18",
+        "asar": "4:44",
+        "maghrib": "7:26",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-06-20",
+      "hari": "SABTU",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:06",
+        "zohor": "1:18",
+        "asar": "4:44",
+        "maghrib": "7:27",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-06-21",
+      "hari": "AHAD",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:06",
+        "zohor": "1:18",
+        "asar": "4:44",
+        "maghrib": "7:27",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-06-22",
+      "hari": "ISNIN",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:06",
+        "zohor": "1:19",
+        "asar": "4:44",
+        "maghrib": "7:27",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-06-23",
+      "hari": "SELASA",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:07",
+        "zohor": "1:19",
+        "asar": "4:44",
+        "maghrib": "7:27",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-06-24",
+      "hari": "RABU",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:07",
+        "zohor": "1:19",
+        "asar": "4:45",
+        "maghrib": "7:27",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-06-25",
+      "hari": "KHAMIS",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:07",
+        "zohor": "1:19",
+        "asar": "4:45",
+        "maghrib": "7:28",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-06-26",
+      "hari": "JUMAAT",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:07",
+        "zohor": "1:19",
+        "asar": "4:45",
+        "maghrib": "7:28",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-06-27",
+      "hari": "SABTU",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:07",
+        "zohor": "1:20",
+        "asar": "4:45",
+        "maghrib": "7:28",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-06-28",
+      "hari": "AHAD",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:08",
+        "zohor": "1:20",
+        "asar": "4:45",
+        "maghrib": "7:28",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-06-29",
+      "hari": "ISNIN",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:08",
+        "zohor": "1:20",
+        "asar": "4:46",
+        "maghrib": "7:28",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-06-30",
+      "hari": "SELASA",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:08",
+        "zohor": "1:20",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-01",
+      "hari": "RABU",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:08",
+        "zohor": "1:20",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-02",
+      "hari": "KHAMIS",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:09",
+        "zohor": "1:21",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-03",
+      "hari": "JUMAAT",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:09",
+        "zohor": "1:21",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-04",
+      "hari": "SABTU",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:09",
+        "zohor": "1:21",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-05",
+      "hari": "AHAD",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:09",
+        "zohor": "1:21",
+        "asar": "4:46",
+        "maghrib": "7:29",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-06",
+      "hari": "ISNIN",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:09",
+        "zohor": "1:21",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-07",
+      "hari": "SELASA",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:10",
+        "zohor": "1:21",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-08",
+      "hari": "RABU",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:10",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-09",
+      "hari": "KHAMIS",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:10",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-10",
+      "hari": "JUMAAT",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:10",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-11",
+      "hari": "SABTU",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:10",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-12",
+      "hari": "AHAD",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:10",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-13",
+      "hari": "ISNIN",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:11",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-14",
+      "hari": "SELASA",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:11",
+        "zohor": "1:22",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-15",
+      "hari": "RABU",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-16",
+      "hari": "KHAMIS",
+      "hijri": "SAFAR",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:30",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-17",
+      "hari": "JUMAAT",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:31",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-18",
+      "hari": "SABTU",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:31",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-19",
+      "hari": "AHAD",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:31",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-20",
+      "hari": "ISNIN",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:11",
+        "zohor": "1:23",
+        "asar": "4:47",
+        "maghrib": "7:31",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-21",
+      "hari": "SELASA",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:31",
+        "isya": "8:45"
+      }
+    },
+    {
+      "tarikh": "2026-07-22",
+      "hari": "RABU",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:31",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-23",
+      "hari": "KHAMIS",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:31",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-24",
+      "hari": "JUMAAT",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-25",
+      "hari": "SABTU",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-26",
+      "hari": "AHAD",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:46",
+        "maghrib": "7:30",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-27",
+      "hari": "ISNIN",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:44"
+      }
+    },
+    {
+      "tarikh": "2026-07-28",
+      "hari": "SELASA",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-07-29",
+      "hari": "RABU",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-07-30",
+      "hari": "KHAMIS",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:45",
+        "maghrib": "7:30",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-07-31",
+      "hari": "JUMAAT",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:44",
+        "maghrib": "7:30",
+        "isya": "8:43"
+      }
+    },
+    {
+      "tarikh": "2026-08-01",
+      "hari": "SABTU",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:44",
+        "maghrib": "7:30",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-08-02",
+      "hari": "AHAD",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:44",
+        "maghrib": "7:30",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-08-03",
+      "hari": "ISNIN",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:44",
+        "maghrib": "7:29",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-08-04",
+      "hari": "SELASA",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:43",
+        "maghrib": "7:29",
+        "isya": "8:42"
+      }
+    },
+    {
+      "tarikh": "2026-08-05",
+      "hari": "RABU",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:43",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-08-06",
+      "hari": "KHAMIS",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:23",
+        "asar": "4:42",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-08-07",
+      "hari": "JUMAAT",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:42",
+        "maghrib": "7:29",
+        "isya": "8:41"
+      }
+    },
+    {
+      "tarikh": "2026-08-08",
+      "hari": "SABTU",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:42",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-08-09",
+      "hari": "AHAD",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:41",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-08-10",
+      "hari": "ISNIN",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:41",
+        "maghrib": "7:28",
+        "isya": "8:40"
+      }
+    },
+    {
+      "tarikh": "2026-08-11",
+      "hari": "SELASA",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:40",
+        "maghrib": "7:28",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-08-12",
+      "hari": "RABU",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:12",
+        "zohor": "1:22",
+        "asar": "4:40",
+        "maghrib": "7:28",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-08-13",
+      "hari": "KHAMIS",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:22",
+        "asar": "4:39",
+        "maghrib": "7:27",
+        "isya": "8:39"
+      }
+    },
+    {
+      "tarikh": "2026-08-15",
+      "hari": "SABTU",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:21",
+        "asar": "4:38",
+        "maghrib": "7:27",
+        "isya": "8:38"
+      }
+    },
+    {
+      "tarikh": "2026-08-16",
+      "hari": "AHAD",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:21",
+        "asar": "4:37",
+        "maghrib": "7:26",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-08-17",
+      "hari": "ISNIN",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:21",
+        "asar": "4:37",
+        "maghrib": "7:26",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-08-18",
+      "hari": "SELASA",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:21",
+        "asar": "4:36",
+        "maghrib": "7:26",
+        "isya": "8:37"
+      }
+    },
+    {
+      "tarikh": "2026-08-19",
+      "hari": "RABU",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:11",
+        "zohor": "1:20",
+        "asar": "4:36",
+        "maghrib": "7:25",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-08-20",
+      "hari": "KHAMIS",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:20",
+        "asar": "4:35",
+        "maghrib": "7:25",
+        "isya": "8:36"
+      }
+    },
+    {
+      "tarikh": "2026-08-21",
+      "hari": "JUMAAT",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:20",
+        "asar": "4:34",
+        "maghrib": "7:25",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-08-22",
+      "hari": "SABTU",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:20",
+        "asar": "4:34",
+        "maghrib": "7:24",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-08-23",
+      "hari": "AHAD",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:19",
+        "asar": "4:33",
+        "maghrib": "7:24",
+        "isya": "8:35"
+      }
+    },
+    {
+      "tarikh": "2026-08-24",
+      "hari": "ISNIN",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:19",
+        "asar": "4:32",
+        "maghrib": "7:24",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-08-25",
+      "hari": "SELASA",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:10",
+        "zohor": "1:19",
+        "asar": "4:31",
+        "maghrib": "7:23",
+        "isya": "8:34"
+      }
+    },
+    {
+      "tarikh": "2026-08-26",
+      "hari": "RABU",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:31",
+        "maghrib": "7:23",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-08-27",
+      "hari": "KHAMIS",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:30",
+        "maghrib": "7:23",
+        "isya": "8:33"
+      }
+    },
+    {
+      "tarikh": "2026-08-28",
+      "hari": "JUMAAT",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:29",
+        "maghrib": "7:22",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-08-29",
+      "hari": "SABTU",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:09",
+        "zohor": "1:18",
+        "asar": "4:28",
+        "maghrib": "7:22",
+        "isya": "8:32"
+      }
+    },
+    {
+      "tarikh": "2026-08-30",
+      "hari": "AHAD",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:27",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-08-31",
+      "hari": "ISNIN",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:26",
+        "maghrib": "7:21",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-09-01",
+      "hari": "SELASA",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:17",
+        "asar": "4:25",
+        "maghrib": "7:21",
+        "isya": "8:30"
+      }
+    },
+    {
+      "tarikh": "2026-09-02",
+      "hari": "RABU",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:08",
+        "zohor": "1:16",
+        "asar": "4:25",
+        "maghrib": "7:20",
+        "isya": "8:30"
+      }
+    },
+    {
+      "tarikh": "2026-09-03",
+      "hari": "KHAMIS",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:07",
+        "zohor": "1:16",
+        "asar": "4:24",
+        "maghrib": "7:20",
+        "isya": "8:29"
+      }
+    },
+    {
+      "tarikh": "2026-09-04",
+      "hari": "JUMAAT",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:07",
+        "zohor": "1:16",
+        "asar": "4:23",
+        "maghrib": "7:19",
+        "isya": "8:29"
+      }
+    },
+    {
+      "tarikh": "2026-09-05",
+      "hari": "SABTU",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:07",
+        "zohor": "1:15",
+        "asar": "4:22",
+        "maghrib": "7:19",
+        "isya": "8:28"
+      }
+    },
+    {
+      "tarikh": "2026-09-06",
+      "hari": "AHAD",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:07",
+        "zohor": "1:15",
+        "asar": "4:21",
+        "maghrib": "7:19",
+        "isya": "8:28"
+      }
+    },
+    {
+      "tarikh": "2026-09-07",
+      "hari": "ISNIN",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:06",
+        "zohor": "1:15",
+        "asar": "4:20",
+        "maghrib": "7:18",
+        "isya": "8:27"
+      }
+    },
+    {
+      "tarikh": "2026-09-08",
+      "hari": "SELASA",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:06",
+        "zohor": "1:14",
+        "asar": "4:19",
+        "maghrib": "7:18",
+        "isya": "8:27"
+      }
+    },
+    {
+      "tarikh": "2026-09-09",
+      "hari": "RABU",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:06",
+        "zohor": "1:14",
+        "asar": "4:18",
+        "maghrib": "7:17",
+        "isya": "8:27"
+      }
+    },
+    {
+      "tarikh": "2026-09-10",
+      "hari": "KHAMIS",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:06",
+        "zohor": "1:14",
+        "asar": "4:17",
+        "maghrib": "7:17",
+        "isya": "8:26"
+      }
+    },
+    {
+      "tarikh": "2026-09-11",
+      "hari": "JUMAAT",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:05",
+        "zohor": "1:13",
+        "asar": "4:16",
+        "maghrib": "7:17",
+        "isya": "8:26"
+      }
+    },
+    {
+      "tarikh": "2026-09-12",
+      "hari": "SABTU",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:05",
+        "zohor": "1:13",
+        "asar": "4:15",
+        "maghrib": "7:16",
+        "isya": "8:25"
+      }
+    },
+    {
+      "tarikh": "2026-09-14",
+      "hari": "ISNIN",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:05",
+        "zohor": "1:12",
+        "asar": "4:13",
+        "maghrib": "7:15",
+        "isya": "8:24"
+      }
+    },
+    {
+      "tarikh": "2026-09-15",
+      "hari": "SELASA",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:04",
+        "zohor": "1:12",
+        "asar": "4:12",
+        "maghrib": "7:15",
+        "isya": "8:24"
+      }
+    },
+    {
+      "tarikh": "2026-09-16",
+      "hari": "RABU",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:04",
+        "zohor": "1:12",
+        "asar": "4:12",
+        "maghrib": "7:14",
+        "isya": "8:23"
+      }
+    },
+    {
+      "tarikh": "2026-09-17",
+      "hari": "KHAMIS",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:04",
+        "zohor": "1:11",
+        "asar": "4:13",
+        "maghrib": "7:14",
+        "isya": "8:23"
+      }
+    },
+    {
+      "tarikh": "2026-09-18",
+      "hari": "JUMAAT",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:03",
+        "zohor": "1:11",
+        "asar": "4:13",
+        "maghrib": "7:13",
+        "isya": "8:22"
+      }
+    },
+    {
+      "tarikh": "2026-09-19",
+      "hari": "SABTU",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:03",
+        "zohor": "1:10",
+        "asar": "4:13",
+        "maghrib": "7:13",
+        "isya": "8:22"
+      }
+    },
+    {
+      "tarikh": "2026-09-20",
+      "hari": "AHAD",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:03",
+        "zohor": "1:10",
+        "asar": "4:14",
+        "maghrib": "7:13",
+        "isya": "8:21"
+      }
+    },
+    {
+      "tarikh": "2026-09-21",
+      "hari": "ISNIN",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:03",
+        "zohor": "1:10",
+        "asar": "4:14",
+        "maghrib": "7:12",
+        "isya": "8:21"
+      }
+    },
+    {
+      "tarikh": "2026-09-22",
+      "hari": "SELASA",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:02",
+        "zohor": "1:09",
+        "asar": "4:14",
+        "maghrib": "7:12",
+        "isya": "8:20"
+      }
+    },
+    {
+      "tarikh": "2026-09-23",
+      "hari": "RABU",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:02",
+        "zohor": "1:09",
+        "asar": "4:14",
+        "maghrib": "7:11",
+        "isya": "8:20"
+      }
+    },
+    {
+      "tarikh": "2026-09-24",
+      "hari": "KHAMIS",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:02",
+        "zohor": "1:09",
+        "asar": "4:15",
+        "maghrib": "7:11",
+        "isya": "8:20"
+      }
+    },
+    {
+      "tarikh": "2026-09-25",
+      "hari": "JUMAAT",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:01",
+        "zohor": "1:08",
+        "asar": "4:15",
+        "maghrib": "7:10",
+        "isya": "8:19"
+      }
+    },
+    {
+      "tarikh": "2026-09-26",
+      "hari": "SABTU",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:01",
+        "zohor": "1:08",
+        "asar": "4:15",
+        "maghrib": "7:10",
+        "isya": "8:19"
+      }
+    },
+    {
+      "tarikh": "2026-09-27",
+      "hari": "AHAD",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:01",
+        "zohor": "1:08",
+        "asar": "4:15",
+        "maghrib": "7:10",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-09-28",
+      "hari": "ISNIN",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:01",
+        "zohor": "1:07",
+        "asar": "4:15",
+        "maghrib": "7:09",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-09-29",
+      "hari": "SELASA",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:00",
+        "zohor": "1:07",
+        "asar": "4:16",
+        "maghrib": "7:09",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-09-30",
+      "hari": "RABU",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:00",
+        "zohor": "1:07",
+        "asar": "4:16",
+        "maghrib": "7:08",
+        "isya": "8:17"
+      }
+    },
+    {
+      "tarikh": "2026-10-01",
+      "hari": "KHAMIS",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:00",
+        "zohor": "1:06",
+        "asar": "4:16",
+        "maghrib": "7:08",
+        "isya": "8:17"
+      }
+    },
+    {
+      "tarikh": "2026-10-02",
+      "hari": "JUMAAT",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:00",
+        "zohor": "1:06",
+        "asar": "4:16",
+        "maghrib": "7:08",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-10-03",
+      "hari": "SABTU",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "6:59",
+        "zohor": "1:06",
+        "asar": "4:16",
+        "maghrib": "7:07",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-10-04",
+      "hari": "AHAD",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "6:59",
+        "zohor": "1:05",
+        "asar": "4:16",
+        "maghrib": "7:07",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-10-05",
+      "hari": "ISNIN",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "6:59",
+        "zohor": "1:05",
+        "asar": "4:17",
+        "maghrib": "7:06",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-10-06",
+      "hari": "SELASA",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "6:59",
+        "zohor": "1:05",
+        "asar": "4:17",
+        "maghrib": "7:06",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-10-07",
+      "hari": "RABU",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "6:59",
+        "zohor": "1:04",
+        "asar": "4:17",
+        "maghrib": "7:06",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-10-08",
+      "hari": "KHAMIS",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "6:58",
+        "zohor": "1:04",
+        "asar": "4:17",
+        "maghrib": "7:05",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-10-09",
+      "hari": "JUMAAT",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "6:58",
+        "zohor": "1:04",
+        "asar": "4:17",
+        "maghrib": "7:05",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-10-10",
+      "hari": "SABTU",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "6:58",
+        "zohor": "1:04",
+        "asar": "4:17",
+        "maghrib": "7:05",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-10-11",
+      "hari": "AHAD",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "6:58",
+        "zohor": "1:03",
+        "asar": "4:17",
+        "maghrib": "7:04",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-10-13",
+      "hari": "SELASA",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "6:57",
+        "zohor": "1:03",
+        "asar": "4:18",
+        "maghrib": "7:04",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-10-14",
+      "hari": "RABU",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "6:57",
+        "zohor": "1:03",
+        "asar": "4:18",
+        "maghrib": "7:03",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-10-15",
+      "hari": "KHAMIS",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:57",
+        "zohor": "1:02",
+        "asar": "4:18",
+        "maghrib": "7:03",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-10-16",
+      "hari": "JUMAAT",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:57",
+        "zohor": "1:02",
+        "asar": "4:18",
+        "maghrib": "7:03",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-10-17",
+      "hari": "SABTU",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:57",
+        "zohor": "1:02",
+        "asar": "4:18",
+        "maghrib": "7:02",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-10-18",
+      "hari": "AHAD",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:57",
+        "zohor": "1:02",
+        "asar": "4:18",
+        "maghrib": "7:02",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-10-19",
+      "hari": "ISNIN",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:57",
+        "zohor": "1:02",
+        "asar": "4:18",
+        "maghrib": "7:02",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-10-20",
+      "hari": "SELASA",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:18",
+        "maghrib": "7:02",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-21",
+      "hari": "RABU",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:01",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-22",
+      "hari": "KHAMIS",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:01",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-23",
+      "hari": "JUMAAT",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:01",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-24",
+      "hari": "SABTU",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:01",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-25",
+      "hari": "AHAD",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:00",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-26",
+      "hari": "ISNIN",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:01",
+        "asar": "4:19",
+        "maghrib": "7:00",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-27",
+      "hari": "SELASA",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:19",
+        "maghrib": "7:00",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-10-28",
+      "hari": "RABU",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:19",
+        "maghrib": "7:00",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-10-29",
+      "hari": "KHAMIS",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "7:00",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-10-30",
+      "hari": "JUMAAT",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "7:00",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-10-31",
+      "hari": "SABTU",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "7:00",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-11-01",
+      "hari": "AHAD",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "6:59",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-11-02",
+      "hari": "ISNIN",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "6:59",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-11-03",
+      "hari": "SELASA",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:20",
+        "maghrib": "6:59",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-11-04",
+      "hari": "RABU",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:21",
+        "maghrib": "6:59",
+        "isya": "8:10"
+      }
+    },
+    {
+      "tarikh": "2026-11-05",
+      "hari": "KHAMIS",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:21",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-06",
+      "hari": "JUMAAT",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:21",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-07",
+      "hari": "SABTU",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:21",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-08",
+      "hari": "AHAD",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:56",
+        "zohor": "1:00",
+        "asar": "4:21",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-09",
+      "hari": "ISNIN",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:57",
+        "zohor": "1:00",
+        "asar": "4:22",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-10",
+      "hari": "SELASA",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:57",
+        "zohor": "1:00",
+        "asar": "4:22",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-12",
+      "hari": "KHAMIS",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:57",
+        "zohor": "1:01",
+        "asar": "4:22",
+        "maghrib": "6:59",
+        "isya": "8:11"
+      }
+    },
+    {
+      "tarikh": "2026-11-13",
+      "hari": "JUMAAT",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:57",
+        "zohor": "1:01",
+        "asar": "4:22",
+        "maghrib": "6:59",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-11-14",
+      "hari": "SABTU",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:38",
+        "subuh": "5:48",
+        "syuruq": "6:57",
+        "zohor": "1:01",
+        "asar": "4:23",
+        "maghrib": "6:59",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-11-15",
+      "hari": "AHAD",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:58",
+        "zohor": "1:01",
+        "asar": "4:23",
+        "maghrib": "7:00",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-11-16",
+      "hari": "ISNIN",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:58",
+        "zohor": "1:01",
+        "asar": "4:23",
+        "maghrib": "7:00",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-11-17",
+      "hari": "SELASA",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:58",
+        "zohor": "1:01",
+        "asar": "4:23",
+        "maghrib": "7:00",
+        "isya": "8:12"
+      }
+    },
+    {
+      "tarikh": "2026-11-18",
+      "hari": "RABU",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:58",
+        "zohor": "1:02",
+        "asar": "4:24",
+        "maghrib": "7:00",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-11-19",
+      "hari": "KHAMIS",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:59",
+        "zohor": "1:02",
+        "asar": "4:24",
+        "maghrib": "7:00",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-11-20",
+      "hari": "JUMAAT",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:39",
+        "subuh": "5:49",
+        "syuruq": "6:59",
+        "zohor": "1:02",
+        "asar": "4:24",
+        "maghrib": "7:00",
+        "isya": "8:13"
+      }
+    },
+    {
+      "tarikh": "2026-11-21",
+      "hari": "SABTU",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:59",
+        "zohor": "1:02",
+        "asar": "4:25",
+        "maghrib": "7:00",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-11-22",
+      "hari": "AHAD",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "6:59",
+        "zohor": "1:03",
+        "asar": "4:25",
+        "maghrib": "7:01",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-11-23",
+      "hari": "ISNIN",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:00",
+        "zohor": "1:03",
+        "asar": "4:25",
+        "maghrib": "7:01",
+        "isya": "8:14"
+      }
+    },
+    {
+      "tarikh": "2026-11-24",
+      "hari": "SELASA",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:00",
+        "zohor": "1:03",
+        "asar": "4:26",
+        "maghrib": "7:01",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-11-25",
+      "hari": "RABU",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:40",
+        "subuh": "5:50",
+        "syuruq": "7:00",
+        "zohor": "1:03",
+        "asar": "4:26",
+        "maghrib": "7:01",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-11-26",
+      "hari": "KHAMIS",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:01",
+        "zohor": "1:04",
+        "asar": "4:26",
+        "maghrib": "7:02",
+        "isya": "8:15"
+      }
+    },
+    {
+      "tarikh": "2026-11-27",
+      "hari": "JUMAAT",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:01",
+        "zohor": "1:04",
+        "asar": "4:27",
+        "maghrib": "7:02",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-11-28",
+      "hari": "SABTU",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:41",
+        "subuh": "5:51",
+        "syuruq": "7:02",
+        "zohor": "1:04",
+        "asar": "4:27",
+        "maghrib": "7:02",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-11-29",
+      "hari": "AHAD",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:05",
+        "asar": "4:27",
+        "maghrib": "7:03",
+        "isya": "8:16"
+      }
+    },
+    {
+      "tarikh": "2026-11-30",
+      "hari": "ISNIN",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:02",
+        "zohor": "1:05",
+        "asar": "4:28",
+        "maghrib": "7:03",
+        "isya": "8:17"
+      }
+    },
+    {
+      "tarikh": "2026-12-01",
+      "hari": "SELASA",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:42",
+        "subuh": "5:52",
+        "syuruq": "7:03",
+        "zohor": "1:05",
+        "asar": "4:28",
+        "maghrib": "7:03",
+        "isya": "8:17"
+      }
+    },
+    {
+      "tarikh": "2026-12-02",
+      "hari": "RABU",
+      "hijri": "22",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:03",
+        "zohor": "1:06",
+        "asar": "4:29",
+        "maghrib": "7:04",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-12-03",
+      "hari": "KHAMIS",
+      "hijri": "23",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:04",
+        "zohor": "1:06",
+        "asar": "4:29",
+        "maghrib": "7:04",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-12-04",
+      "hari": "JUMAAT",
+      "hijri": "24",
+      "waktu": {
+        "imsak": "5:43",
+        "subuh": "5:53",
+        "syuruq": "7:04",
+        "zohor": "1:07",
+        "asar": "4:29",
+        "maghrib": "7:04",
+        "isya": "8:18"
+      }
+    },
+    {
+      "tarikh": "2026-12-05",
+      "hari": "SABTU",
+      "hijri": "25",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:04",
+        "zohor": "1:07",
+        "asar": "4:30",
+        "maghrib": "7:05",
+        "isya": "8:19"
+      }
+    },
+    {
+      "tarikh": "2026-12-06",
+      "hari": "AHAD",
+      "hijri": "26",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:05",
+        "zohor": "1:07",
+        "asar": "4:30",
+        "maghrib": "7:05",
+        "isya": "8:19"
+      }
+    },
+    {
+      "tarikh": "2026-12-07",
+      "hari": "ISNIN",
+      "hijri": "27",
+      "waktu": {
+        "imsak": "5:44",
+        "subuh": "5:54",
+        "syuruq": "7:05",
+        "zohor": "1:08",
+        "asar": "4:31",
+        "maghrib": "7:05",
+        "isya": "8:20"
+      }
+    },
+    {
+      "tarikh": "2026-12-08",
+      "hari": "SELASA",
+      "hijri": "28",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:06",
+        "zohor": "1:08",
+        "asar": "4:31",
+        "maghrib": "7:06",
+        "isya": "8:20"
+      }
+    },
+    {
+      "tarikh": "2026-12-09",
+      "hari": "RABU",
+      "hijri": "29",
+      "waktu": {
+        "imsak": "5:45",
+        "subuh": "5:55",
+        "syuruq": "7:06",
+        "zohor": "1:09",
+        "asar": "4:32",
+        "maghrib": "7:06",
+        "isya": "8:21"
+      }
+    },
+    {
+      "tarikh": "2026-12-10",
+      "hari": "KHAMIS",
+      "hijri": "30",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:07",
+        "zohor": "1:09",
+        "asar": "4:32",
+        "maghrib": "7:07",
+        "isya": "8:21"
+      }
+    },
+    {
+      "tarikh": "2026-12-11",
+      "hari": "JUMAAT",
+      "hijri": "RAJAB",
+      "waktu": {
+        "imsak": "5:46",
+        "subuh": "5:56",
+        "syuruq": "7:07",
+        "zohor": "1:10",
+        "asar": "4:33",
+        "maghrib": "7:07",
+        "isya": "8:22"
+      }
+    },
+    {
+      "tarikh": "2026-12-12",
+      "hari": "SABTU",
+      "hijri": "2",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:08",
+        "zohor": "1:10",
+        "asar": "4:33",
+        "maghrib": "7:08",
+        "isya": "8:22"
+      }
+    },
+    {
+      "tarikh": "2026-12-13",
+      "hari": "AHAD",
+      "hijri": "3",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:08",
+        "zohor": "1:11",
+        "asar": "4:34",
+        "maghrib": "7:08",
+        "isya": "8:23"
+      }
+    },
+    {
+      "tarikh": "2026-12-14",
+      "hari": "ISNIN",
+      "hijri": "4",
+      "waktu": {
+        "imsak": "5:47",
+        "subuh": "5:57",
+        "syuruq": "7:09",
+        "zohor": "1:11",
+        "asar": "4:34",
+        "maghrib": "7:08",
+        "isya": "8:23"
+      }
+    },
+    {
+      "tarikh": "2026-12-15",
+      "hari": "SELASA",
+      "hijri": "5",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:09",
+        "zohor": "1:12",
+        "asar": "4:35",
+        "maghrib": "7:09",
+        "isya": "8:24"
+      }
+    },
+    {
+      "tarikh": "2026-12-16",
+      "hari": "RABU",
+      "hijri": "6",
+      "waktu": {
+        "imsak": "5:48",
+        "subuh": "5:58",
+        "syuruq": "7:10",
+        "zohor": "1:12",
+        "asar": "4:35",
+        "maghrib": "7:09",
+        "isya": "8:24"
+      }
+    },
+    {
+      "tarikh": "2026-12-17",
+      "hari": "KHAMIS",
+      "hijri": "7",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:10",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:10",
+        "isya": "8:25"
+      }
+    },
+    {
+      "tarikh": "2026-12-18",
+      "hari": "JUMAAT",
+      "hijri": "8",
+      "waktu": {
+        "imsak": "5:49",
+        "subuh": "5:59",
+        "syuruq": "7:11",
+        "zohor": "1:13",
+        "asar": "4:36",
+        "maghrib": "7:10",
+        "isya": "8:25"
+      }
+    },
+    {
+      "tarikh": "2026-12-19",
+      "hari": "SABTU",
+      "hijri": "9",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:11",
+        "zohor": "1:14",
+        "asar": "4:37",
+        "maghrib": "7:11",
+        "isya": "8:26"
+      }
+    },
+    {
+      "tarikh": "2026-12-20",
+      "hari": "AHAD",
+      "hijri": "10",
+      "waktu": {
+        "imsak": "5:50",
+        "subuh": "6:00",
+        "syuruq": "7:12",
+        "zohor": "1:14",
+        "asar": "4:37",
+        "maghrib": "7:11",
+        "isya": "8:26"
+      }
+    },
+    {
+      "tarikh": "2026-12-21",
+      "hari": "ISNIN",
+      "hijri": "11",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:12",
+        "zohor": "1:14",
+        "asar": "4:38",
+        "maghrib": "7:12",
+        "isya": "8:27"
+      }
+    },
+    {
+      "tarikh": "2026-12-22",
+      "hari": "SELASA",
+      "hijri": "12",
+      "waktu": {
+        "imsak": "5:51",
+        "subuh": "6:01",
+        "syuruq": "7:13",
+        "zohor": "1:15",
+        "asar": "4:38",
+        "maghrib": "7:12",
+        "isya": "8:27"
+      }
+    },
+    {
+      "tarikh": "2026-12-23",
+      "hari": "RABU",
+      "hijri": "13",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:13",
+        "zohor": "1:15",
+        "asar": "4:39",
+        "maghrib": "7:13",
+        "isya": "8:28"
+      }
+    },
+    {
+      "tarikh": "2026-12-24",
+      "hari": "KHAMIS",
+      "hijri": "14",
+      "waktu": {
+        "imsak": "5:52",
+        "subuh": "6:02",
+        "syuruq": "7:14",
+        "zohor": "1:16",
+        "asar": "4:39",
+        "maghrib": "7:13",
+        "isya": "8:28"
+      }
+    },
+    {
+      "tarikh": "2026-12-25",
+      "hari": "JUMAAT",
+      "hijri": "15",
+      "waktu": {
+        "imsak": "5:53",
+        "subuh": "6:03",
+        "syuruq": "7:14",
+        "zohor": "1:16",
+        "asar": "4:40",
+        "maghrib": "7:14",
+        "isya": "8:29"
+      }
+    },
+    {
+      "tarikh": "2026-12-26",
+      "hari": "SABTU",
+      "hijri": "16",
+      "waktu": {
+        "imsak": "5:53",
+        "subuh": "6:03",
+        "syuruq": "7:15",
+        "zohor": "1:17",
+        "asar": "4:40",
+        "maghrib": "7:14",
+        "isya": "8:29"
+      }
+    },
+    {
+      "tarikh": "2026-12-27",
+      "hari": "AHAD",
+      "hijri": "17",
+      "waktu": {
+        "imsak": "5:54",
+        "subuh": "6:04",
+        "syuruq": "7:15",
+        "zohor": "1:17",
+        "asar": "4:40",
+        "maghrib": "7:15",
+        "isya": "8:30"
+      }
+    },
+    {
+      "tarikh": "2026-12-28",
+      "hari": "ISNIN",
+      "hijri": "18",
+      "waktu": {
+        "imsak": "5:54",
+        "subuh": "6:04",
+        "syuruq": "7:15",
+        "zohor": "1:18",
+        "asar": "4:41",
+        "maghrib": "7:15",
+        "isya": "8:30"
+      }
+    },
+    {
+      "tarikh": "2026-12-29",
+      "hari": "SELASA",
+      "hijri": "19",
+      "waktu": {
+        "imsak": "5:55",
+        "subuh": "6:05",
+        "syuruq": "7:16",
+        "zohor": "1:18",
+        "asar": "4:41",
+        "maghrib": "7:16",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-12-30",
+      "hari": "RABU",
+      "hijri": "20",
+      "waktu": {
+        "imsak": "5:55",
+        "subuh": "6:05",
+        "syuruq": "7:16",
+        "zohor": "1:19",
+        "asar": "4:42",
+        "maghrib": "7:16",
+        "isya": "8:31"
+      }
+    },
+    {
+      "tarikh": "2026-12-31",
+      "hari": "KHAMIS",
+      "hijri": "21",
+      "waktu": {
+        "imsak": "5:56",
+        "subuh": "6:06",
+        "syuruq": "7:17",
+        "zohor": "1:19",
+        "asar": "4:42",
+        "maghrib": "7:17",
+        "isya": "8:32"
+      }
+    }
+  ]
+}
