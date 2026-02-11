@@ -104,9 +104,3 @@ Sumbangan (Contribution) amat dialu-alukan! Jika anda mempunyai cadangan atau me
 **Penafian**: Data waktu solat adalah anggaran berdasarkan jadual rasmi 2026. Sila rujuk azan di masjid/surau berdekatan untuk kepastian tepat.
 
 ```
-
----
-
-**Satu lagi soalan: Adakah anda perlukan bantuan untuk membuat fail `.env` jika anda mahu buat kerja-kerja pembangunan (development) di PC sendiri tanpa mendedahkan token?**
-
-```
